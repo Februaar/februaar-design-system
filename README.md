@@ -4,3 +4,8 @@
 - React
 - styled-component
 - storybook
+
+## Installation
+
+```bash
+npm install @februaar/design-system styled-components

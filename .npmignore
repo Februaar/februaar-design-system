@@ -1,0 +1,10 @@
+index.html
+src/
+public/
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
+.eslintrc.cjs
+node_modules
+.gitignore
+*.tgz
