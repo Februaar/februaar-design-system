@@ -43,5 +43,13 @@
     "storybook": "^8.0.6",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
-  }
+  },
+  "files": [
+    "dist/",
+    "src/components/Button",
+    "src/components/Flex",
+    "src/components/Input",
+    "src/components/Modal",
+    "src/components/Select"
+  ]
 }
